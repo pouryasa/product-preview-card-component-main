@@ -1,0 +1,74 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Fraunces;
+    src: url(Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+}
+body {
+    background-color: #F3EAE3;
+    font-size: 14px;
+}
+
+.folder {
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+img {
+    width: 290px;
+    float: left;
+    border-top-left-radius:20px ;
+    border-bottom-left-radius: 20px;
+}
+
+.words {
+    background-color: white;
+    text-align: left;
+    padding-left: 20px;
+    float: right;
+    width: 290px;
+    height: 435px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+h3{
+    color:#7F7E86;
+    font-family : Montserrat;
+    font-weight: 500;
+
+
+
+}
+
+.p1{
+    font-size: 30px;
+    font-family: Fraunces;
+    font-weight: 700;
+}
+
+.p2{
+    color: #7F7E86;
+    font-size: 18px;
+    line-height: 1.2rem;
+    font-family: Montserrat;
+    font-style: 700;
+}
+
+
+.dollor {
+    margin-bottom: 20px;
+}
+
+button {
+    width: 260px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #3D8168;
+    color: white;
+    border: none;
+}
